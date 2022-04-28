@@ -1,5 +1,6 @@
-# PracticeLibrary
-Just building it for practicing 
+# Toast Library
+
+Show Toast easily, anywhere.
 
 
 in your build.gradle(project)
