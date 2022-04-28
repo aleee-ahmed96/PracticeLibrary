@@ -1,5 +1,8 @@
 # PracticeLibrary
-Juts building it for practicing 
+Just building it for practicing 
+
+
+in your build.gradle(project)
 
 
 	allprojects {
@@ -10,6 +13,15 @@ Juts building it for practicing
 	}
   
   
-  dependencies {
-	        implementation 'com.github.aleee-ahmed96:PracticeLibrary:0.3.0'
-	}
+  in your build.gradle(app)
+
+	 dependencies {
+		implementation 'com.github.aleee-ahmed96:PracticeLibrary:0.3.0'
+	 }
+
+
+How To Use: 
+
+To show Toast in your app. 
+
+	Toasty.show(context, "your message")
