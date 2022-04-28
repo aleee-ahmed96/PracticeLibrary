@@ -1,5 +1,8 @@
 # Toast Library
 
+[![](https://jitpack.io/v/aleee-ahmed96/PracticeLibrary.svg)](https://jitpack.io/#aleee-ahmed96/PracticeLibrary)
+
+
 Show Toast easily, anywhere.
 
 
