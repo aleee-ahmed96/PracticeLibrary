@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 rootProject.name = "PracticeProject"
 include ':app'
 include ':my-utils'
-include ':myconstants'
