@@ -11,5 +11,5 @@ Juts building it for practicing
   
   
   dependencies {
-	        implementation 'com.github.aleee-ahmed96:PracticeLibrary:0.2.0'
+	        implementation 'com.github.aleee-ahmed96:PracticeLibrary:0.3.0'
 	}
